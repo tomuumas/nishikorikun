@@ -1,0 +1,13 @@
+{
+  "name": "がんばれ！にしこりくん",
+  "description": "にしこりくんが端まで行くと負けです",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "developer": {
+    "name": "shimamut",
+    "url": "http://shimamut.net/"
+  },
+  "default_locale": "ja"
+}
